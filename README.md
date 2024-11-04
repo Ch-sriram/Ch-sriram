@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram Chandrabhatta</h1>
-<h3 align="center">A well oiled software engineering machine from India</h3>
+<h3 align="center">A software engineering machina bene uncti ex India</h3>
 
 <p align="left">
   <img
