@@ -4,7 +4,7 @@
   ( <strong>భారతదేశం నుండి బాగా నూనెతో కూడిన సాఫ్ట్‌వేర్ ఇంజనీరింగ్ యంత్రం</strong> )
 <p>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Ch-sriram&label=Profile%20views&color=0e75b6&style=flat"
     alt="Ch-sriram"
