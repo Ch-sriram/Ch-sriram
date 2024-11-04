@@ -83,9 +83,10 @@
       height="40"
     />
   </a>
+  <!-- src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      src="./bash.svg"
       alt="bash"
       width="40"
       height="40"
@@ -143,7 +144,7 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
       alt="bootstrap"
       width="40"
       height="40"
@@ -191,9 +192,10 @@
       height="40"
     />
   </a>
+  <!-- src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="./express-js.svg"
       alt="express"
       width="40"
       height="40"
@@ -201,7 +203,7 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg"
+      src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg"
       alt="flask"
       width="40"
       height="40"
@@ -338,7 +340,7 @@
   <h4 align="left">Build Tools</h4>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
+      src="./babel.svg"
       alt="babel"
       width="40"
       height="40"
@@ -448,7 +450,7 @@
   </a>
   <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"
+      src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"
       alt="macOS"
       width="40"
       height="40"
