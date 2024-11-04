@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sriram Chandrabhatta</h1>
 <h3 align="center">A software engineering machina bene uncti ex India</h3>
-<h5 align="center">(భారతదేశం నుండి బాగా నూనెతో కూడిన సాఫ్ట్‌వేర్ ఇంజనీరింగ్ యంత్రం)</h3>
+<p align="center">
+  ( <strong>భారతదేశం నుండి బాగా నూనెతో కూడిన సాఫ్ట్‌వేర్ ఇంజనీరింగ్ యంత్రం</strong> )
+<p>
 
 <p align="left">
   <img
@@ -9,9 +11,12 @@
   />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ch-sriram" alt="Ch-sriram" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Ch-sriram&rank=-C&theme=matrix&column=-1"
+      alt="Ch-sriram"
+    />
   </a>
 </p>
 
